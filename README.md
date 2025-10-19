@@ -12,4 +12,5 @@
     <img align="center" alt="Lucchesi-Kotlin" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
     <img align="center" alt="Lucchesi-JAVA" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Lucchesi-Firebase" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg">
+    <img align="center" alt="Lucchesi-Android" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
 </div>
